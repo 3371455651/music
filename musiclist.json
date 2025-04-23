@@ -1,14 +1,14 @@
 [
     {
-        "title": "罗生门(Follow)",
-        "artist": "梨冻紧,Wiz_H张子豪",
-        "category": "中文",
-        "url": "http://music.163.com/song/media/outer/url?id=1456890009.mp3"
+        "title": "音乐标题",
+        "artist": "艺术家",
+        "category": "分类",
+        "url": "音乐文件的URL"
     },
     {
-        "title": "Letting Go",
-        "artist": "TINA",
-        "category": "中文",
-        "url": "https://proxy.092333.xyz/https://github.com/3371455651/music/mp3/LettingGo.mp3"
+        "title": "另一首音乐标题",
+        "artist": "另一位艺术家",
+        "category": "分类",
+        "url": "另一首音乐文件的URL"
     }
 ]
